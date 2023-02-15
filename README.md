@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <kbd>
-<img src="quickWord.gif"></img>
+<img src="[quickWord.gif](https://github.com/yoonhyochang/Warehouse/blob/3bac445fa10e57c12bcee25f7a9dbb33a76dcb11/quickWord.gif?raw=true)"></img>
   </kbd>
 </p>
 
