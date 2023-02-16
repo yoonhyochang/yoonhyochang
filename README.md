@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <h3>
     Content Creator at
       <a href="https://parkit.tistory.com/">
-        드림코딩 by 엘리 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" />
+        무작정 시작하는 개발자  <img src="https://github.com/yoonhyochang/Warehouse/blob/main/logotype.png?raw=true" height="30px" />
       </a>
     </h3>
   </em>
