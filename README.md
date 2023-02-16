@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
 
-<h1> Hi, I'm Dream Coder Ellie <img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" height="180"></h1>
+<h1> 안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. <img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" height="180"></h1>
 
 <p>
   <em>
