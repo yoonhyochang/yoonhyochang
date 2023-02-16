@@ -3,7 +3,7 @@
   <kbd>
     
     
-<img src="https://github.com/yoonhyochang/Warehouse/blob/3bac445fa10e57c12bcee25f7a9dbb33a76dcb11/ezgif.com-gif-maker.gif?raw=true"></img>
+<img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true"></img>
   </kbd>
 </p>
 
