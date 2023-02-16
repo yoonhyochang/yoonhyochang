@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <em>
     <h3>
     Content Creator at
-      <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
+      <a href="https://parkit.tistory.com/">
         드림코딩 by 엘리 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" />
       </a>
     </h3>
