@@ -3,7 +3,7 @@
 
 [<img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true"/>](https://raymond.li/)
 Here are some ideas to get you started:
-
+https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)" title="👋 안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-<h1> 안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. <img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" height="180"></h1>
+[<img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true" alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)" title="👋 안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+<h1><img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" height="180"></h1>
+
 
 <p>
   <em>
