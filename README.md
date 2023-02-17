@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
+<table border="0">
   <tr>
-    <td width="100">
-      <img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true" alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)" title=" it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)"/>
+    <td width="300">
+      <img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true" alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)" title="👋 안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)"/>
     </td>
     <td>
       <h1><img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" height="180"></h1>
