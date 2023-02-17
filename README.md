@@ -47,7 +47,6 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-
 <br/>
 
 <h2>My Portfolio</h2>
@@ -55,7 +54,7 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="2022 웹개발 로드맵 총정리 (공부순서 알려드림) | 올해는 정말 해보자 🚀">
+        <a href="https://yoonhyochang.github.io/" title="My Portfolio 🚀">
           <img align="center" src="https://img.youtube.com/vi/TTLHd3IyErM/0.jpg" width="300" alt-text="Frontend Roadmap">
         </a>
       </td>
