@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
-
 <h1> 안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. <img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" height="180"></h1>
 
 <p>
@@ -64,8 +61,6 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-<b><em><a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">More videos...</a></em></b>
-
 <br/>
 <br/>
 
