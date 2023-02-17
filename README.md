@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi%20(3).gif?raw=true"  alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다.">
-<img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" width="500" alt="image description">
+<img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi%20(3).gif?raw=true"  width="2000"alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다.">
+
 <table>
   <tr>
    <td width="500">
