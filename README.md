@@ -23,7 +23,6 @@ Here are some ideas to get you started:
      
   </tr>
 </table>
-<h2<width="500" ,img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true" alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)" title="👋 안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)"/>> My tech stack 📚 </h2>
 
 
 
