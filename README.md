@@ -60,16 +60,7 @@ Here are some ideas to get you started:
           <img align="center" src="https://img.youtube.com/vi/TTLHd3IyErM/0.jpg" width="300" alt-text="Frontend Roadmap">
         </a>
       </td>
-      <td>
-        <a href="https://www.youtube.com/watch?v=wcsVjmHrUQg&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="자바스크립트 배우기전 꼭 봐야할 영상">
-          <img align="center" src="https://img.youtube.com/vi/wcsVjmHrUQg/0.jpg" width="300" alt-text="">
-        </a>
-      </td>
-      <td>
-        <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s" title="깃, 깃허브 제대로 배우기 (기본 마스터편, 실무에서 꿀리지 말자)">
-        <img align="center" src="https://img.youtube.com/vi/Z9dvM7qgN9s/0.jpg" width="300" alt-text="Git tutorial">
-          </a>
-      </td>
+      
     </tr>
   </tbody>
 </table>
@@ -78,7 +69,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<h2>My popular courses</h2> 
+<h2>My Development study</h2> 
 <table>
   <tbody>
     <tr>
