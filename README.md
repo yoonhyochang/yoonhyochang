@@ -1,15 +1,8 @@
 <!--
 **yoonhyochang/yoonhyochang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="image.jpg" align="left" width="100" height="100" alt="image description">
 
-<div class="separator" style="clear: both;">
-  <a href="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" height="180" style="display: block; padding: 1em 0; text-align: center; ">
-    <img alt=""
-         border="0"
-         data-original-height="360"
-         data-original-width="640"
-         src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true"/>
-  </a>
-</div>
+<img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true" align="left" width="100" height="100" alt="image description">
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
