@@ -27,16 +27,8 @@ Here are some ideas to get you started:
       </a>
     </h3>
   </em>
-  <em>
-  <h3>
-    Instructor at 
-    <a href="https://academy.dream-coding.com/">
-      Dream Coding Academy 
-      <img src="https://user-images.githubusercontent.com/1569988/159411473-79b779c5-b91f-4ded-9235-1f187e1ebec2.svg" height="30px"/>
-    </a>
-  </h3>
-    </em>
-  </em>
+
+ 
 </p>
 
 <br />
