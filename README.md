@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true" align="left" width="100" height="100" alt="image description">
-<img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" width="100" height="100" alt="image description">
+<img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true" align="left" width="500"  alt="image description">
+<img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" width="500" alt="image description">
 <table>
   <tr>
    <td width="500">
