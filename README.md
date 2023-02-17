@@ -16,19 +16,6 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi%20(3).gif?raw=true"  width="1000" alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다.">
 
-<table>
-  <tr>
-   <td width="500">
-      <img src="https://github.com/yoonhyochang/Warehouse/blob/main/hi.gif?raw=true" alt="안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)" title="👋 안녕하세요 it 개발자를 꿈꾸는 윤효창입니다. (Raymo(111|nd Li)|https://raymond.li)"/>
-    </td>
-    <td>
-      <h1><img src="https://github.com/yoonhyochang/Warehouse/blob/main/ezgif.com-gif-maker.gif?raw=true" height="180"></h1>
-    </td>
-     
-  </tr>
-</table>
-
-
 
 <p>
   <em>
