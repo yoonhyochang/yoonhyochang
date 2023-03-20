@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td>
-        <a href="https://academy.dream-coding.com/courses/react-basic" title="리액트 개념 정리 + 유튜브 클론 코딩 외 실전 프로젝트 완성">
+        <a href="https://parkit.tistory.com/category/%EB%94%A5%EB%9F%AC%EB%8B%9D" title="딥러닝 공부">
           <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/deeb.png" width="300" alt-text="React Course">
         </a>
       </td>
