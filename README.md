@@ -75,16 +75,35 @@ Here are some ideas to get you started:
         </a>
       </td>
       <td>
-        <a href="https://academy.dream-coding.com/courses/typescript" title="타입스크립트 + 객체지향 프로그래밍 마스터">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/CCujpdfRGCa48lfjCmyg_TypeScript%20Course%20Thumbnail%20%284%29.png" width="300" alt-text="TypeScript Course">
+        <a href="https://parkit.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" title="머신러닝">
+          <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/Machine.png" width="300" alt-text="TypeScript Course">
         </a>
       </td>
       <td>
-        <a href="https://academy.dream-coding.com/courses/node" title="노드로 배우는 백엔드 A-Z (익스프레스, 데이터베이스, 트위터 클론코딩)">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/courses/1375371/7iZPtc2VQpGko36mQlZR_thumbnail.png" width="300" alt-text="NodeJS Course">
+        <a href="https://parkit.tistory.com/category/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C" title="안드로이드">
+          <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/Android.png" width="300" alt-text="NodeJS Course">
         </a>
       </td>
     </tr>
+    
+    
+    <tr>
+      <td>
+        <a href=https://parkit.tistory.com/category/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4" title="라즈베리파이">
+          <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/deeb.png" width="300" alt-text="React Course">
+        </a>
+      </td>
+      <td>
+        <a href="https://parkit.tistory.com/category/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" title="팀프로젝트">
+          <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/project.png" width="300" alt-text="TypeScript Course">
+        </a>
+      </td>
+      <td>
+       
+      </td>
+    </tr>
+    
+    
   </tbody>
 </table>
 <b><em><a href="https://academy.dream-coding.com">Study with me!</a></em></b>
