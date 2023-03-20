@@ -85,8 +85,6 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
-    
-    
     <tr>
       <td>
         <a href=https://parkit.tistory.com/category/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4" title="라즈베리파이">
@@ -98,12 +96,8 @@ Here are some ideas to get you started:
           <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/project.png" width="300" alt-text="TypeScript Course">
         </a>
       </td>
-      <td>
-       
-      </td>
-    </tr>
-    
-    
+         </tr>
+
   </tbody>
 </table>
 <b><em><a href="https://academy.dream-coding.com">Study with me!</a></em></b>
