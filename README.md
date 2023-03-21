@@ -96,6 +96,11 @@ Here are some ideas to get you started:
           <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/project.png" width="300" alt-text="TypeScript Course">
         </a>
       </td>
+      <td>
+        <a href="https://parkit.tistory.com/category/%EC%9D%BC%EA%B8%B0" title="일기">
+          <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/diary.png" width="300" alt-text="TypeScript Course">
+        </a>
+      </td>                                                                                                                                      
          </tr>
 
   </tbody>
