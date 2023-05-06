@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr>
-      <td>
-        <a href="https://yoonhyochang.github.io/" title="My Portfolio 🚀">
-          <img align="center" src="https://img.youtube.com/vi/TTLHd3IyErM/0.jpg" width="300" alt-text="Frontend Roadmap">
+       <td>
+        <a href="https://parkit.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" title="프로젝트">
+          <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/project.png" width="300" alt-text="TypeScript Course">
         </a>
       </td>
       
@@ -89,11 +89,6 @@ Here are some ideas to get you started:
       <td>
         <a href=https://parkit.tistory.com/category/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4" title="라즈베리파이">
           <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/Raspberry.png" width="300" alt-text="React Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://parkit.tistory.com/category/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" title="팀프로젝트">
-          <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/project.png" width="300" alt-text="TypeScript Course">
         </a>
       </td>
       <td>
