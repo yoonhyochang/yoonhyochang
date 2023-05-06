@@ -54,13 +54,13 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
        <td>
-        <a href="https://parkit.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" title="감정ai">
+        <a href="https://parkit.tistory.com/121" title="감정ai">
           <img align="center" src="https://user-images.githubusercontent.com/116787968/236611315-81d78f96-9e1b-49c9-93b8-c1dbeaae21bf.png" width="300" alt-text="TypeScript Course">
         </a>
       </td>
              <td>
-        <a href="https://user-images.githubusercontent.com/116787968/236611931-6fceec46-bcaa-4ba1-8db7-3b51b1bebf4e.png" title="공공문서">
-          <img align="center" src="https://user-images.githubusercontent.com/116787968/236611315-81d78f96-9e1b-49c9-93b8-c1dbeaae21bf.png" width="300" alt-text="TypeScript Course">
+        <a href="https://parkit.tistory.com/122" title="공공문서">
+          <img align="center" src="https://user-images.githubusercontent.com/116787968/236611931-6fceec46-bcaa-4ba1-8db7-3b51b1bebf4e.png" width="300" alt-text="TypeScript Course">
         </a>
       </td>
 
