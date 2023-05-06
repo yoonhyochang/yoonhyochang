@@ -54,8 +54,8 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
        <td>
-        <a href="https://parkit.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" title="프로젝트">
-          <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/project.png" width="300" alt-text="TypeScript Course">
+        <a href="https://parkit.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" title="감정ai">
+          <img align="center" src="https://user-images.githubusercontent.com/116787968/236611315-81d78f96-9e1b-49c9-93b8-c1dbeaae21bf.png" width="300" alt-text="TypeScript Course">
         </a>
       </td>
       
@@ -95,7 +95,12 @@ Here are some ideas to get you started:
         <a href="https://parkit.tistory.com/category/%EC%9D%BC%EA%B8%B0" title="일기">
           <img align="center" src="https://github.com/yoonhyochang/Warehouse/blob/main/diary.png" width="300" alt-text="TypeScript Course">
         </a>
-      </td>                                                                                                                                      
+      </td>       
+      <td>
+        <a href=https://parkit.tistory.com/category/%EB%85%BC%EB%AC%B8%EB%B2%88%EC%97%AD" title="논문번역">
+          <img align="center" src="https://user-images.githubusercontent.com/116787968/236611228-df02c240-677b-4785-b295-1bf4eebbaa82.png" width="300" alt-text="TypeScript Course">
+        </a>
+      </td>                                                                                                                                          
          </tr>
 
   </tbody>
